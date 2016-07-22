@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64435" started-at="2016-07-17T16:28:52Z" finished-at="2016-07-17T16:29:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64435" started-at="2016-07-17T16:28:52Z" finished-at="2016-07-17T16:29:57Z">
+      <class name="ivanVojnovic.test.ZadatakMinis1">
+        <test-method status="PASS" signature="setupSelenium()[pri:0, instance:ivanVojnovic.test.ZadatakMinis1@548a9f61]" name="setupSelenium" is-config="true" duration-ms="30020" started-at="2016-07-17T16:28:52Z" finished-at="2016-07-17T16:29:22Z">
+        </test-method> <!-- setupSelenium -->
+        <test-method status="PASS" signature="Zadatak1()[pri:0, instance:ivanVojnovic.test.ZadatakMinis1@548a9f61]" name="Zadatak1" duration-ms="34128" started-at="2016-07-17T16:29:22Z" finished-at="2016-07-17T16:29:56Z">
+        </test-method> <!-- Zadatak1 -->
+        <test-method status="PASS" signature="closeSelenium()[pri:0, instance:ivanVojnovic.test.ZadatakMinis1@548a9f61]" name="closeSelenium" is-config="true" duration-ms="230" started-at="2016-07-17T16:29:56Z" finished-at="2016-07-17T16:29:57Z">
+        </test-method> <!-- closeSelenium -->
+      </class> <!-- ivanVojnovic.test.ZadatakMinis1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

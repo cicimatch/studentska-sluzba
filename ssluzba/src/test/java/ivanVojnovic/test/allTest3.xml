@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestZadatak1">
+
+	<test name="redom">
+		<classes>
+			<class name="ivanVojnovic.test.LoginTest" />	
+			<class name="ivanVojnovic.test.MinisAddIstrazivacaTest" />
+			<class name="ivanVojnovic.test.MinisAngazujIstrazivacaTest" />
+		</classes>
+	</test>
+</suite>
+
